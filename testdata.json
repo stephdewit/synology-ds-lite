@@ -1,0 +1,62 @@
+{
+   "disable_err" : "none",
+   "items" : [
+      {
+         "blEmptySize" : false,
+         "current_rate" : "",
+         "current_size" : "175.02 MB",
+         "filename" : "foo.avi",
+         "progress" : "100.0%",
+         "status" : "TASK_SEEDING",
+         "task_id" : 543,
+         "timeleft" : -1,
+         "total_size" : "175.02 MB",
+         "upload_rate" : " 5.66 KB/s",
+         "username" : ""
+      },
+      {
+         "blEmptySize" : true,
+         "current_rate" : "",
+         "current_size" : "Unknown",
+         "filename" : "bar.avi",
+         "progress" : "Unknown",
+         "status" : "TASK_WAITING",
+         "task_id" : 544,
+         "timeleft" : -1,
+         "total_size" : "174.99 MB",
+         "upload_rate" : "",
+         "username" : ""
+      },
+      {
+         "blEmptySize" : false,
+         "current_rate" : "500.00 KB/s",
+         "current_size" : "265.14 MB",
+         "filename" : "baz.avi",
+         "progress" : " 75.8%",
+         "status" : "TASK_DOWNLOADING",
+         "task_id" : 545,
+         "timeleft" : 173,
+         "total_size" : "350.01 MB",
+         "upload_rate" : "14.34 KB/s",
+         "username" : ""
+      },
+      {
+         "blEmptySize" : true,
+         "current_rate" : "",
+         "current_size" : "Unknown",
+         "filename" : "qux.avi",
+         "progress" : "Unknown",
+         "status" : "TASK_PAUSED",
+         "task_id" : 546,
+         "timeleft" : -1,
+         "total_size" : "174.83 MB",
+         "upload_rate" : "",
+         "username" : ""
+      }
+   ],
+   "success" : true,
+   "total" : 4,
+   "total_down" : "500.00 KB/s",
+   "total_rate" : "",
+   "total_up" : "20.00 KB/s"
+}
